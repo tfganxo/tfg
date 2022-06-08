@@ -1,0 +1,3 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_batch_size,param_epochs,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score,split0_train_score,split1_train_score,split2_train_score,split3_train_score,split4_train_score,mean_train_score,std_train_score
+1756.7294354438782,16.816375549716593,51.81511821746826,1.5473914927520926,200,10,"{'batch_size': 200, 'epochs': 10}",,,,,,,,1,,,,,,,
+2240.0113301754,578.8329311652752,20.99041986465454,10.139423242948677,200,20,"{'batch_size': 200, 'epochs': 20}",,,,,,,,2,,,,,,,
