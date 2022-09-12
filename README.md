@@ -5,7 +5,11 @@ Para su ejecución necesita el conjunto de datos InSDN en el directorio apropiad
 El orden de ejecución es:
 
 Análisis (corrección).
+
 Outliers.
+
 RFECV.
+
 GridSearchCV de Modelos.
+
 Autoencoder.
